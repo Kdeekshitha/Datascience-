@@ -16,4 +16,4 @@
 [![](https://visitcount.itsvg.in/api?id=Kdeekshitha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-familiar with Machine learning,Deep learning,statistics,Data visualisation,Data preprocessing
+
